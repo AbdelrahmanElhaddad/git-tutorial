@@ -1,2 +1,2 @@
 print('config.py loaded')
-print('version 2')
+print('version 12')
